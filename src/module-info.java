@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sathu
+ *
+ */
+module bad {
+}
